@@ -125,6 +125,6 @@ I would like to thank **[Original design](https://www.behance.net/gallery/197591
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
