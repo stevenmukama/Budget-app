@@ -5,7 +5,7 @@ RSpec.describe Categorie, type: :system do
   describe 'test display' do
     it 'should display splash page' do
       visit '/'
-      expect(page).to have_content('SpendWise')
+      expect(page).to have_content('Budgetapp')
       expect(page).to have_content('Register')
       expect(page).to have_content('Log in')
     end
